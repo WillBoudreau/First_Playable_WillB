@@ -1,0 +1,7 @@
+C:\Users\willi\OneDrive\First_Playable_WillB\First_Playable_WillB\First_Playable_WillB\bin\Debug\First_Playable_WillB.exe.config
+C:\Users\willi\OneDrive\First_Playable_WillB\First_Playable_WillB\First_Playable_WillB\bin\Debug\First_Playable_WillB.exe
+C:\Users\willi\OneDrive\First_Playable_WillB\First_Playable_WillB\First_Playable_WillB\bin\Debug\First_Playable_WillB.pdb
+C:\Users\willi\OneDrive\First_Playable_WillB\First_Playable_WillB\First_Playable_WillB\obj\Debug\First_Playable_WillB.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\First_Playable_WillB\First_Playable_WillB\First_Playable_WillB\obj\Debug\First_Playable_WillB.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\First_Playable_WillB\First_Playable_WillB\First_Playable_WillB\obj\Debug\First_Playable_WillB.exe
+C:\Users\willi\OneDrive\First_Playable_WillB\First_Playable_WillB\First_Playable_WillB\obj\Debug\First_Playable_WillB.pdb
